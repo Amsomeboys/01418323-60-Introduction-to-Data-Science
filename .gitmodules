@@ -7,3 +7,9 @@
 [submodule "data-sci-w3"]
 	path = data-sci-w3
 	url = https://github.com/Amsomeboys/data-sci-w3.git
+[submodule "data-sci-w4"]
+	path = data-sci-w4
+	url = https://github.com/Amsomeboys/data-sci-w4.git
+[submodule "data-sci-w5"]
+	path = data-sci-w5
+	url = https://github.com/Amsomeboys/data-sci-w5.git
